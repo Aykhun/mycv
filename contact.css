@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    background-color: rgb(88, 2, 55);
+    font-size: 45px;
+    padding: 7px;
+    
+    color: rgb(252, 227, 227);
+    
+}
+h2{
+    
+    color:  rgb(252, 227, 227);
+    font-size: 30px;
+    background-color: rgb(95, 2, 67);
+    padding: 20px;
+    
+    
+}
+#div1{
+    position: relative;
+    text-align: center;
+    width: 650px;
+    height: 400px;
+}
+#div2{
+    float: right;
+    
+    text-align: center;
+    width: 400px;
+    height:400px;
+    position: relative;
+    bottom: 350px;
+    right: 30px;
+   
+
+    
+}
+#div3{
+    float: right;
+    text-align: center;
+    width: 400px;
+    height:400px;
+    position: relative;
+    bottom: 260px;
+    left: 370px;
+}
+#div4{
+    float: right;
+    text-align: center;
+    width: 400px;
+    height:400px;
+    position: relative;
+    bottom: 175px;
+    left: 770px;
+}
+a{
+    color:  rgb(95, 2, 67);
+    font-size: 25px;
+    
+    padding: 20px;
+    
+}

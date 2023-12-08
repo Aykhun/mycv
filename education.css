@@ -1,0 +1,50 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    
+    color: white;
+    background-color: rgb(129, 1, 87);
+
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    
+    width: 700px;
+    height: 40px;
+    
+}
+#first{
+    width: 700px;
+    padding-left: 320px;
+}
+a{
+    font-size: 30px;
+    border-style: outset;
+    color: white;
+    background-color:rgb(129, 1, 87);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 270px;
+}
+#box1{
+   display: inline-block;
+    margin-left: 180px;
+    text-align: center;
+   
+}
+#box2{
+    text-align: center;
+    margin-left: 220px;
+    display: inline-block;
+}
+#box3{
+    display: inline-block;
+    margin-left: 230px;
+    text-align: center;
+
+}

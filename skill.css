@@ -1,0 +1,107 @@
+h1{
+    text-align: center;
+    background-color: rgb(129, 1, 87);
+    font-size: 45px;
+    padding: 7px;
+    
+    color: white;
+    
+}
+#h21{
+    font-size: 39px;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(129, 1, 87);
+}
+#first{
+    margin-left: 550px; 
+    width: 220px;
+    height: 40px;
+}
+li{
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+}
+#secondhead{
+    font-size: 24px;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(129, 1, 87);
+    
+    position:relative;
+    
+    top: 100px;
+}
+#secondbox{
+    position: relative;
+    top: 100px;
+    left: 555px;
+    text-align: center;
+    width: 220px;
+    height: 40px;
+
+}
+#thirdhead{
+    font-size: 24px;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(129, 1, 87);
+    
+    position:relative;
+    top: 200px;
+}
+#thirdbox{
+    text-align: center;
+    width: 220px;
+    height: 40px;
+    position: relative;
+    top: 222px;
+    left: 555px;
+}
+#box1{
+    display: inline-block;
+    width: 200px;
+    height: 70px;
+     text-align: center;
+     font-size: 33px;
+     position: relative;
+     top: 400px;
+     left: 360px;
+     border-style: outset;
+     background-color: rgb(129, 1, 87);
+     padding-top: 8px;
+     
+ }
+ #box2{
+     text-align: center;
+     font-size: 33px;
+     width: 200px;
+     height: 70px;
+     display: inline-block;
+     position: relative;
+     top: 390px;
+     left: 378px;
+     border-style: outset;
+     background-color: rgb(129, 1, 87);
+     
+     padding-top: 8px;
+ }
+ #box3{
+     display: inline-block;
+    width: 200px;
+    height: 70px;
+     text-align: center;
+     font-size: 33px;
+     position: relative;
+     top: 400px;
+     left: 400px;
+     border-style: outset;
+     background-color: rgb(129, 1, 87);
+     padding-top: 8px;
+     
+      
+ }
+ a{
+    color: antiquewhite;
+ }
